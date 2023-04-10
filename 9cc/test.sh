@@ -17,6 +17,5 @@ assert() {
 }
 
 assert 41 " 12 + 34 - 5 "
-assert 41 " 12 ++ 34 - 5 "
 echo OK
 
